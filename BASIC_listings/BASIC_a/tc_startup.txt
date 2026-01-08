@@ -27,8 +27,8 @@ BLITZ_BASIC_HEADER
           // STOP vector
           // Control OS Messages
 
-          // #load TITLE $5C00 - $8BFF 
-          // #load ARR  $3F40-$3FFF ($BF40?)
+          // #load TITLE $5C00-$8BFF 
+          // #load ARR $BF40-$BFFF
 
           // move $6000-7F3F to $A000-BF3F
           // move $5C00-5fe7 to $8C00-8fe7
